@@ -1,0 +1,21 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A program to generate READMEs for assignments during the rest of the course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "author": "Anthony Iacano",
+  "license": "MIT",
+  "bugs": {
+    
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  }
+}
